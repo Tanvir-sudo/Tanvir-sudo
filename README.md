@@ -3,9 +3,10 @@
 AI researcher with a B.S. in Artificial Intelligence and Big Data from Woosong University, South Korea.
 I work on **trustworthy machine learning**: adversarial robustness, explainable AI, and medical image analysis.
 
-### Publication
+### Publications
 
 - **T. Ahamed**, S. C. Kakon, et al., "An Integrated Evaluation Protocol for Adversarial Robustness, Generalization, and Explanation Stability in URL-Based Phishing Detection," *Frontiers in Computer Science*, 2026. [Paper](https://doi.org/10.3389/fcomp.2026.1834407) · [Code](https://github.com/Tanvir-sudo/phishing-url-adversarial-robustness)
+- **T. Ahamed** et al., "AI Literacy: Tools and Strategies for Responsible Use of Generative AI," book chapter, *in press*.
 
 ### Projects
 
